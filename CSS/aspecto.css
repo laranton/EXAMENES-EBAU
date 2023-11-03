@@ -1,0 +1,137 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("https://img.pixers.pics/pho_wat(s3:700/FO/10/87/85/26/4/700_FO108785264_66db89a6ab6bae3fd2b7215b3e25c418.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/fotomurales-fondo-transparente-con-iconos-simples-sobre-el-tema-de-las-matematicas-y-el-aprendizaje-marcador-de-color-sobre-fondo-blanco.jpg.jpg");
+    
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0cm;
+}
+header{
+    align-items: center;
+}
+header img{
+    width: 300px;
+    margin-left: 30px;
+}
+h1{
+    float: right;
+    padding: 60px 80px;
+    font-size: 50px;
+    margin-right: 170px;
+}
+NAV UL.dos{
+    background-color: rgba(100, 148, 237, 0.825);
+    padding: 30px 20px;
+    margin-top: -40px;
+}
+nav ul.hide{
+    margin-left: 34%;
+    display:none;
+    position:absolute;
+    margin-top: 25px;
+   }
+nav ul li.asignatura{
+    width: 100%;
+    border-radius: 20px;
+    padding: 20px 50px;
+    margin-left: 200px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+    
+nav ul li.asignatura{
+    display:inline;
+}
+nav ul ul.hide li {
+    float:none;
+    padding: 20PX 30px;
+    list-style: none;
+    background-color: rgba(186, 217, 255, 0.626);
+}   
+nav ul ul.hide li {
+    margin-top: 3px;
+    background-color: rgba(186, 217, 255, 0.626);
+    border-radius: 20px;
+    text-align: center;
+}   
+   nav ul li:hover > ul {
+    display:block;
+   }
+   nav ul ul.hide li:hover {
+    background-color: rgba(168, 172, 255, 0.451);
+    transition: 0.05s;
+   }
+
+div{
+    background: #7e7979d5;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+ }
+  .nav-bar{
+    display: inline;
+    background-color: #666666;
+    color:#ffffff;
+    padding: 20 30;
+    width: 100%;
+    text-align: center;
+    border-radius: 100px;
+ 
+}
+.aquí{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    justify-content: center;
+    margin: 2cm;
+}
+.aquí article {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #000000;
+    text-align: center;
+    flex: 0 0 calc(33.33% - 40px);
+}
+.aquí .azul{
+    background-color: #007bff;
+}
+.aquí .marrón{
+    background-color: #ffaa48;
+}
+.aquí .morado{
+    background-color: #d86dff;
+}
+.aquí .rojo{
+    background-color: #ff0000;
+}
+.aquí .gris{
+    background-color: #949494;
+}
+.aquí .verde{
+    background-color: #42ff5b;
+}
+.aquí article a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.aquí article:hover {
+    background-color: #ff6ae98a;
+}
+
+FOOTER p{
+    margin-top: 60px;
+    font-size: 25px;
+}
+footer a.correo{
+    margin-top: 60px;
+}
+footer a img#imagen{
+    width: 90px;
+    margin-top: 30px;
+}
