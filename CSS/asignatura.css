@@ -93,9 +93,9 @@ H2{
 }
 
 .tabla{
-    border: 10px;
-    border-color: black;
-    width: 100%
+    width: calc(100% - 10px);
+    border: #ff7300 5px solid;
+    border-style: outset;
 
 }
 th{
