@@ -83,7 +83,7 @@ div{
  
 }
 section table.tabla{
-    margin: 3cm;
+    margin: 3px;
     background-color: #ffffff;
     padding: 20px 20px;
 }
@@ -93,7 +93,7 @@ H2{
 }
 
 .tabla{
-    width: calc(100% - 10px);
+    width: calc(100% - 56px);
     border: #ff7300 5px solid;
     border-style: outset;
 
