@@ -21,7 +21,7 @@ h1{
     margin-right: 170px;
     background: none;
 }
-NAV UL.dos{
+nav ul.dos{
     background-color: rgba(100, 148, 237, 0.825);
     padding: 30px 20px;
     margin-top: -40px;
@@ -116,7 +116,7 @@ td {
 body{
     background-color: aliceblue;"
 }
-FOOTER p{
+footer p{
     margin-top: 60px;
     font-size: 25px;
 }
