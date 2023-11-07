@@ -20,7 +20,7 @@ h1{
     font-size: 50px;
     margin-right: 170px;
 }
-NAV UL.dos{
+nav ul.dos{
     background-color: rgba(100, 148, 237, 0.825);
     padding: 30px 20px;
     margin-top: -40px;
@@ -124,7 +124,7 @@ div{
     background-color: #ff6ae98a;
 }
 
-FOOTER p{
+footer p{
     margin-top: 60px;
     font-size: 25px;
 }
