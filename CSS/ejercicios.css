@@ -1,7 +1,7 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-image: url("https://img.pixers.pics/pho_wat(s3:700/FO/10/87/85/26/4/700_FO108785264_66db89a6ab6bae3fd2b7215b3e25c418.jpg,700,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,650,jpg)/fotomurales-fondo-transparente-con-iconos-simples-sobre-el-tema-de-las-matematicas-y-el-aprendizaje-marcador-de-color-sobre-fondo-blanco.jpg.jpg");
-    
+    background-color: aliceblue;
     color: rgb(0, 0, 0);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
@@ -91,30 +91,6 @@ section table.tabla{
 H2{
     font-size: 30px;
     margin-left: 2cm;
-}
-
-.tabla{
-    width: calc(100% - 56px);
-    border: #ff7300 5px solid;
-    border-style: outset;
-
-}
-th{
-    color:#74804b;
-    background-color: #e0a933
-}
-
-tr{
-    width: 50%;
-}
-h3{
-    background-color:#a399e4
-}
-td {
-    border-color: rgb(10, 9, 9);
-}
-body{
-    background-color: aliceblue;"
 }
 footer p{
     margin-top: 60px;
