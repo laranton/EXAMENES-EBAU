@@ -98,6 +98,8 @@ iframe {
     border-radius: 40px;
     background-color: #00f7ff;
     padding: 40px 20px;
+    width: 100px;
+    
 }
 footer p{
     margin-top: 60px;
