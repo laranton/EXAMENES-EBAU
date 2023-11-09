@@ -25,7 +25,7 @@ nav ul.dos{
     background-color: rgba(100, 148, 237, 0.825);
     padding: 30px 20px;
     margin-top: -40px;
-    width: 30%;
+    width: 100%;
 }
 nav ul.hide{
     display:none;
