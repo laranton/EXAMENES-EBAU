@@ -53,12 +53,11 @@ nav ul ul.hide li {
     padding: 20PX 30px;
     list-style: none;
     background-color: rgba(186, 217, 255, 0.626);
-}   
-nav ul ul.hide li {
     margin-top: 3px;
     background-color: rgba(186, 217, 255, 0.626);
     border-radius: 20px;
     text-align: center;
+    content-align: center;
 }   
    nav ul li:hover > ul {
     display:block;
