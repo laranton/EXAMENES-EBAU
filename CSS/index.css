@@ -26,6 +26,7 @@ nav ul.dos{
     padding: 30px 20px;
     margin-top: -40px;
     width: 100%;
+    height: fixed;
 }
 nav ul.hide{
     display:none;
