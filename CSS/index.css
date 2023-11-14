@@ -35,10 +35,9 @@ nav ul.hide{
     margin-left: 40%;
    }
 nav ul li.asignatura{
-    width: 100%;
+    width: calc(100%/3);
     border-radius: 20px;
     padding: 20px 50px;
-    margin-left: 200px;
 }
 nav ul li a{
     text-decoration: none;
