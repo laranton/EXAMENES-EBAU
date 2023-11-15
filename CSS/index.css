@@ -81,9 +81,7 @@ div{
     width: 100%;
     text-align: center;
     border-radius: 100px;
- 
 }
-
 section article.principio{
     margin: 5cm;
     border: 2px solid #00f7ff;
@@ -134,14 +132,10 @@ footer{
     width: 100px;
     height: 100px;
     vertical-align: text-bottom; 
-
 }
 .nombre{
     text-align: left;
-
 }
-
-
 footer p{
     margin-top: 60px;
     font-size: 25px;
