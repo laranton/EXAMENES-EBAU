@@ -90,6 +90,9 @@ section article.principio{
     padding: 40px 20px;
     text-align: center;
 }
+article.f10{
+    margin:2cm;
+}
 footer{
     margin-left: -2cm;
     margin-right: -2cm;
@@ -98,7 +101,6 @@ footer{
     width: 50px;
     float: right;
     margin-top: 25px;
-    
 }
 .correo{
     text-align: right;
