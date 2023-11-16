@@ -21,7 +21,7 @@ h1{
     font-size: 50px;
     margin-right: 185px;
 }
-nav ul#dos{
+nav ul.dos{
     background-color: rgba(100, 148, 237, 0.825);
     padding: 30px 20px;
     margin-top: -40px;
