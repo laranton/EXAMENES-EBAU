@@ -25,6 +25,7 @@ nav ul.dos{
     background-color: rgba(100, 148, 237, 0.825);
     padding: 30px 20px;
     margin-top: -40px;
+    width:100%;
 }
 nav ul.hide{
     margin-left: 34%;
@@ -36,23 +37,17 @@ nav ul li.asignatura{
     width: 100%;
     border-radius: 20px;
     padding: 20px 50px;
-    margin-left: 200px;
+    display:inline;
 }
 nav ul li a{
     text-decoration: none;
     color: black;
-}
-    
-nav ul li.asignatura{
-    display:inline;
 }
 nav ul ul.hide li {
     float:none;
     padding: 20PX 30px;
     list-style: none;
     background-color: rgba(186, 217, 255, 0.626);
-}   
-nav ul ul.hide li {
     margin-top: 3px;
     background-color: rgba(186, 217, 255, 0.626);
     border-radius: 20px;
