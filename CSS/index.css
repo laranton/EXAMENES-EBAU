@@ -25,19 +25,18 @@ nav ul.dos{
     background-color: rgba(100, 148, 237, 0.825);
     padding: 30px 20px;
     margin-top: -40px;
-    height: fixed;
 }
 nav ul.hide{
+    margin-left: 34%;
     display:none;
     position:absolute;
-    margin-top: 50px;
-    margin-left: 40%;
+    margin-top: 25px;
    }
 nav ul li.asignatura{
-    width: 90%;
+    width: 100%;
     border-radius: 20px;
     padding: 20px 50px;
-    margin-left: 150px
+    margin-left: 200px;
 }
 nav ul li a{
     text-decoration: none;
@@ -52,11 +51,12 @@ nav ul ul.hide li {
     padding: 20PX 30px;
     list-style: none;
     background-color: rgba(186, 217, 255, 0.626);
+}   
+nav ul ul.hide li {
     margin-top: 3px;
     background-color: rgba(186, 217, 255, 0.626);
     border-radius: 20px;
     text-align: center;
-    content-align: center;
 }   
    nav ul li:hover > ul {
     display:block;
@@ -65,23 +65,6 @@ nav ul ul.hide li {
     background-color: rgba(168, 172, 255, 0.451);
     transition: 0.05s;
    }
-
-div{
-    background: #7e7979d5;
-    padding: 10px;
-    display: flex;
-    justify-content: space-around;
-    height: 150px;
- }
-  .nav-bar{
-    display: inline;
-    background-color: #666666;
-    color:#ffffff;
-    padding: 20 30;
-    width: 100%;
-    text-align: center;
-    border-radius: 100px;
-}
 section article.principio{
     margin: 5cm;
     border: 2px solid #00f7ff;
