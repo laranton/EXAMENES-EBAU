@@ -64,14 +64,6 @@ nav ul ul.hide li {
     background-color: rgba(168, 172, 255, 0.451);
     transition: 0.05s;
    }
-
-div{
-    background: #7e7979d5;
-    padding: 10px;
-    display: flex;
-    justify-content: space-around;
-    height: 150px;
- }
   .nav-bar{
     display: inline;
     background-color: #666666;
@@ -123,7 +115,13 @@ div{
 .aquí article:hover {
     background-color: #ff6ae98a;
 }
-
+div{
+    background: #7e7979d5;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+ }
 footer p{
     margin-top: 60px;
     font-size: 25px;
