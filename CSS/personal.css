@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://img.freepik.com/foto-gratis/fondo-blanco-texturas-pared-ladrillo_1203-6588.jpg");
+    background-size: 1350px 800px;
+}
+#foto{
+    width: 20%
+    border: 1px solid #000000;
+    alt: "foto"; 
+    float: right;
+    background: #7e7979af;
+}
+.svg{
+  float: left;
+}
