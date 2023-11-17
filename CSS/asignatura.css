@@ -71,7 +71,7 @@ div{
     padding: 10px;
     display: flex;
     justify-content: space-around;
-    height: 150px;
+    min-height: 150px;
  }
   .nav-bar{
     display: inline;
