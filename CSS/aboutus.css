@@ -1,25 +1,23 @@
-* {
+{
             padding: 0;
             margin: 0;
             box-sizing: border-box;
         }
-        p {
+p {
             margin: 1em;
         }
-
-        .cols {
+.cols {
             height: 300px;
         }
-            .lara {
+.lara {
                 background-color: orange;
                 width: 50%;
             }
-            .daniela {
+.daniela {
                 background-color: skyblue;
                 width: 49%;
             }
-            .lara,
-            .daniela {
+.lara,.daniela {
                 display: inline-block;
                 height: 100%;
             }
