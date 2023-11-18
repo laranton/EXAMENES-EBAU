@@ -3,28 +3,24 @@
             margin: 0;
             box-sizing: border-box;
         }
-p {
-            margin: 1em;
-            
-        }
 img{
-            width: 35px
-                        }   
+    width: 40px;px
+}
 h2{
-           font-size: 5px 
-                    }   
+   font-size: 10px }
 .cols {
-            height: 300px;
-        }
+    width: 100%;
+}
 .lara {
-                background-color: orange;
-                width: 50%;
-            }
+        background-color: orange;
+        width: 50%;
+    }
 .daniela {
-                background-color: skyblue;
-                width: 49%;
-            }
+        background-color: skyblue;
+        width: 50%;
+    }
 .lara,.daniela {
-                display: inline-block;
-                height: 100%;
-            }
+        display: inline-block;
+        height: 100%;
+        width: fit-content;
+    }
