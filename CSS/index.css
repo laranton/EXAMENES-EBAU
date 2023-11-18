@@ -77,6 +77,9 @@ section article.principio{
 article.f10{
     margin:2cm;
 }
+.nave{
+    background-color: white;
+}
 footer{
     margin-left: -2cm;
     margin-right: -2cm;
