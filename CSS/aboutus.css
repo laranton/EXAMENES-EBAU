@@ -1,4 +1,4 @@
-{
+.cols{
             padding: 0;
             margin: 0;
             box-sizing: border-box;
@@ -9,6 +9,7 @@ p {
         }
 h2{
            font-size: 5px 
+                    }   
 .cols {
             height: 300px;
         }
