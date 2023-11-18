@@ -1,0 +1,25 @@
+* {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+        p {
+            margin: 1em;
+        }
+
+        .cols {
+            height: 300px;
+        }
+            .lara {
+                background-color: orange;
+                width: 50%;
+            }
+            .daniela {
+                background-color: skyblue;
+                width: 49%;
+            }
+            .lara,
+            .daniela {
+                display: inline-block;
+                height: 100%;
+            }
