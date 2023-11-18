@@ -3,13 +3,116 @@ body{
     background-image: url("https://img.freepik.com/foto-gratis/fondo-blanco-texturas-pared-ladrillo_1203-6588.jpg");
     background-size: 1350px 800px;
 }
+h1{
+    font-style: italic;
+    color: #05056d;
+    font-size: 50;
+}
+#contacto{color:#cf6400;
+    font-size: larger;
+
+}
+
 #foto{
     width: 20%
     border: 1px solid #000000;
     alt: "foto"; 
-    float: right;
+    float: :left;
     background: #7e7979af;
+    margin-top: 50px;
 }
 svg{
-  float: left;
+    float: right;
+    margin-top: 50px;
+}
+#imagen{
+    text-align: center;
+    width: 400;
+    height:300; 
+    border:10px; 
+    alt:"eminem"
+}
+.texto{
+    font-size: 30;
+    color: #05056d;
+}
+a{
+color: #5e1d5e
+}
+
+table{
+    width: 100%;
+    border: 20px;
+    border-color: #a97dce;
+    border-width: 10px;
+    
+}
+
+th{
+        color:#ffffff;
+        background-color:#6f4eab
+}
+
+td{
+        width: 50%;
+        text-align: center;
+        color:#000000;
+        background-color: #d89ad3;
+}
+tr{
+        width: 50%;
+        height: 50px;
+}
+h3,h2{
+        background-color:#a39ec2;
+        font-size: 60;
+
+}
+
+td {
+        border-color: rgb(10, 9, 9);
+}
+
+li{
+    font-size: 20px;
+}
+
+.nav-bar{
+    text-align: center;
+    display: inline-block;
+    background-color: #000000;
+    color:#ffffff;
+    padding: 20px 40PX;
+    text-decoration: none;
+    nav-right: 50;
+
+}
+.nav-bar:hover{
+    background-color: #05056d;
+    text-align: center;
+}
+nav{
+    background: #7e7979af;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.idc-box {    
+    border: 1px solid #aaa;
+    background: #7e7979af;
+    display: table;
+    font-size: 95%;
+    margin-bottom: 10px;
+    padding: 20px;
+    width: auto; 
+} 
+.idc-box .idc-titulo {    
+    font-weight: 700;
+    text-align: center;
+} 
+            
+.idc-box li, .idc-box ul, .idc-box ul li{   
+    padding: 0 5px;    
+    list-style: outside none none;
 }
