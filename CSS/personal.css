@@ -37,6 +37,17 @@ svg{
     float: right;
     margin-top: 50px;
 }
+@keyframes moveleft{            
+    0% {transform: translate(40px,0)}
+    100% {transform: translate(0,0)}
+}
+
+#paths{
+    animation-name: moveleft;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards;
+    animation-duration: 3s
+}
 #imagen{
     text-align: center;
     width: 400;
