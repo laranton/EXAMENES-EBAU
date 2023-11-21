@@ -29,7 +29,9 @@ svg{
     animation: 1 , 4s;
 }
 @keyframes 1{
-    transform: translateX(42px);
+    100%{
+        transform: translateX(42px);
+    }
 }
 #círculo{
     float: right;
