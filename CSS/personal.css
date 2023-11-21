@@ -36,6 +36,7 @@ svg{
 #círculo{
     float: right;
     margin-top: 50px;
+    animation: moveleft 4s infinite ease-out;
 }
 @keyframes moveleft{            
     0% {transform: translate(40px,0)}
