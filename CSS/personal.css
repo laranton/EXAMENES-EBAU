@@ -77,27 +77,6 @@ li{
     font-size: 20px;
 }
 
-.nav-bar{
-    text-align: center;
-    display: inline-block;
-    background-color: #000000;
-    color:#ffffff;
-    padding: 20px 40PX;
-    text-decoration: none;
-    nav-right: 50;
-
-}
-.nav-bar:hover{
-    background-color: #05056d;
-    text-align: center;
-}
-nav{
-    background: #7e7979af;
-    padding: 10px;
-    display: flex;
-    justify-content: space-around;
-
-}
 .idc-box {    
     border: 1px solid #aaa;
     background: #7e7979af;
