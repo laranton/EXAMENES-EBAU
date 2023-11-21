@@ -24,13 +24,14 @@ svg{
     float: right;
     margin-top: 50px;
 }
-#estrella{
-    animation: 1 4s infinite ease-out;
+#estrella {
+  animation: moverEstrella 4s infinite ease-out;
 }
-@keyframes 1{
-    100%{
-        transform: translateX(42px);
-    }
+
+@keyframes moverEstrella {
+  100% {
+    transform: translateX(42px);
+  }
 }
 #círculo{
     float: right;
