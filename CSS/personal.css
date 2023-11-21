@@ -24,6 +24,13 @@ h1{
 svg{
     float: right;
     margin-top: 50px;
+    animation: 1 , 4s;
+}
+#estrella{
+    animation: 1 , 4s;
+}
+@keyframes 1{
+    transform: translateX(42px);
 }
 #círculo{
     float: right;
