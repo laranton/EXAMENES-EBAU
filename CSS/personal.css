@@ -118,34 +118,3 @@ li{
     padding: 0 5px;    
     list-style: outside none none;
 }
-footer p{
-    margin-top: 60px;
-    font-size: 25px;
-}
- #correo{
-    margin-top: 60px;
-}
-footer a img#imagen{
-    width: 90px;
-    margin-top: 30px;
-}
-#correo{
-    text-align: right;
-    margin-top: 30px;
-}
-#birrete{
-    align-items: left;
-    width: 100px;
-    height: 100px;
-    vertical-align: text-bottom; 
-}
-.nombre{
-    text-align: left;
-}
-div{
-    background: #7e7979d5;
-    padding: 10px;
-    display: flex;
-    justify-content: space-around;
-    height: 150px;
- }
