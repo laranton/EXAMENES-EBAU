@@ -30,7 +30,7 @@ svg{
 
 @keyframes moverEstrella {
   100% {
-    transform: translateX(42px);
+    transform: translateX(100px);
   }
 }
 #círculo{
