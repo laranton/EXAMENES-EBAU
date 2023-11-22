@@ -118,3 +118,14 @@ li{
     padding: 0 5px;    
     list-style: outside none none;
 }
+footer p{
+    margin-top: 60px;
+    font-size: 25px;
+}
+ #correo{
+    margin-top: 60px;
+}
+footer a img#imagen{
+    width: 90px;
+    margin-top: 30px;
+}
