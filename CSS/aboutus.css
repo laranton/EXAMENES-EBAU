@@ -16,6 +16,6 @@ h2{
     }
 .lara,.daniela {
         display: inline-block;
-        height: 100%;
+        height: fit-content;
         width: fit-content;
     }
