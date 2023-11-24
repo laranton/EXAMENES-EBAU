@@ -42,7 +42,9 @@ svg{
     0% {transform: translate(40px,0)}
     100% {transform: translate(0,0)}
 }
-
+@media screen and (min-width:800px)
+{  
+}
 #paths{
     animation-name: moveleft;
     animation-timing-function: ease-in-out;
