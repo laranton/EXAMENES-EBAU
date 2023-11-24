@@ -186,3 +186,8 @@ footer a img#imagen{
 #about{
     width:15%
 }
+@media (max-width: 800px) {
+  .facet_sidebar {
+    display: none;
+  }
+}
