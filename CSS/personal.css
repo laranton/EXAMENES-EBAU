@@ -190,6 +190,7 @@ footer a img#imagen{
   svg {
     float: none;
       width:100%;
+      border: 2px solid #000000;
   }
 }
 @media (max-width: 800px) {
