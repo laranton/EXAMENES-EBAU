@@ -188,13 +188,13 @@ footer a img#imagen{
 }
 @media (max-width: 800px) {
   header {
-    display: none;
+    float: none;
       width:100%;
   }
 }
 @media (max-width: 800px) {
   #foto {
-    display: none;
+    float: none;
       width:100%;
   }
 }
