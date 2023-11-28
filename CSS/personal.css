@@ -187,7 +187,7 @@ footer a img#imagen{
     width:15%
 }
 @media (max-width: 800px) {
-  svg {
+  #estrella {
     float: none;
       width:100%;
       border: 2px solid #000000;
@@ -197,5 +197,10 @@ footer a img#imagen{
   #foto {
     float: none;
       width:50%;
+  }
+}
+@media (max-width: 800px) {
+  #círculo {
+    display: none;
   }
 }
