@@ -111,6 +111,9 @@ nav ul ul.hide li {
     color: #333;
     font-weight: bold;
 }
+#musica{
+    border-color: #ff0000;
+    background-color: #110000;
 
 .aquí article:hover {
     background-color: #ff6ae98a;
