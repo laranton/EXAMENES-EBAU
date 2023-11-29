@@ -206,7 +206,7 @@ footer a img#imagen{
   #foto {
     float: none;
       width:50%;
-      align-items: centre;
+      align-items: center;
   }
 }
 @media (max-width: 800px) {
